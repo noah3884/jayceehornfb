@@ -1802,3 +1802,4 @@ WR,Trent Sherfield,22,2018,74,69,61,76,75,64,0.6,3
 WR,Andy Isabella,23,2019,84,79,80,78,80,79,0.8,4 
 END_PLAYERS
 
+
